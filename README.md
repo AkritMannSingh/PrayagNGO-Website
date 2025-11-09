@@ -1,8 +1,8 @@
-# 🌟 Swami Vivekanand Helping Hand (SVHH)
+## 🌟 Swami Vivekanand Helping Hand (SVHH)
 
 *"Service to Humanity is Service to God" - Inspired by Swami Vivekananda's Philosophy*
 
-## 📖 Table of Contents
+### 📖 Table of Contents
 - [About Us](#about-us)
 - [Our Mission](#our-mission)
 - [Programs & Initiatives](#programs--initiatives)
