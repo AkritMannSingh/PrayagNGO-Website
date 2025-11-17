@@ -64,7 +64,7 @@ A society where every individual has access to basic necessities, quality educat
 - **Technical Support**: IT and development
 - **Administrative**: Office support
 
-### 🤲 Other Support
+### 🙌 Other Support
 - **Skill Sharing**: Conduct workshops
 - **Resource Donation**: Books, equipment, materials
 - **Awareness**: Spread our message
